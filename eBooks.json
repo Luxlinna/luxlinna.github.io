@@ -1,0 +1,129 @@
+{
+"Books" : [
+  {
+    "id": 0, 
+    "image": "p1", 
+    "title": "The robot",
+    "content": "Cara met the robot at the airport. She was with her parents. They had been on holiday. Now they were flying back home, to London. Cara was looking out of the window when she met it. She loved airport windows. There was so much to see. Planes moving, cargo being loaded... everyone was so busy."
+    "desc": ""
+  },
+  {
+    "id": 1, 
+    "image": "p2", 
+    "title": "The perfect thing", 
+    "content": "Amy was very excited. She was going to a big birthday party on Saturday night. There would be music, dancing, food and lots of new people to meet. Amy knew she would have a great time, but what was she going to wear? All her friends at school were talking about it. Imogen and Chloe had new dresses. Sally had expensive new jeans. Kerry had amazing new shoes."
+    "desc" : ""
+  },
+  {
+    "id": 2, 
+    "image": "p3", 
+    "title": "Sick day", 
+    "content": "One morning Joe woke up with a sore elbow. He prodded it carefully with one finger. Ow! That really hurt! Joe climbed out of bed and put on his dressing gown, very, very carefully, so as not to joggle his bad elbow. Then he went downstairs. Mum was in the kitchen, searching for cereal in the cupboard. “We're out of cornflakes again,” she said, not looking round."
+    "desc": ""
+  },
+  {
+    "id": 3, 
+    "image": "p4", 
+    "title": "Shopping Trip", 
+    "content": "The Hobson family had been meaning to buy some new furniture for ages, but somehow they never got round to it. There were always so many other things to do. Then one day there was a big shout from Joe's room. The rest of the family ran to see what was the matter."
+    "desc": ""
+  },
+  {
+    "id": 4, 
+    "image": "p5", 
+    "title": "School trip", 
+    "content": "One day Joe's teacher had some news. “We're going on a school trip,” she told the class. “As we've been learning about different animals, we are going to visit a wildlife park.” Everyone was excited. “Bears!” yelled Finn at playtime. “Rhinos!” “Leopards!” shouted Joe. “Lions!”"
+    "desc": ""
+  },
+  {
+    "id": 5, 
+    "image": "p6", 
+    "title": "Rainy day", 
+    "content": "One weekend, Mum had to work a shift at the hospital, and Dad had loads of marking to do, which meant that neither of them had time to look after Joe and Bella. But Joe and Bella didn't mind. They were going to spend the weekend with Gran, and Gran had promised to take them to the beach! There was just one problem. When they woke up on Saturday morning, and looked out of the window, the rain was sheeting down!"
+    "desc": ""
+  },
+  {
+    "id": 6, 
+    "image": "p7", 
+    "title": "No pet here", 
+    "content": "Joe and Bella had always wanted a pet. But their parents always said no. “We're too busy,” they said.  “Pets make too much mess. We've enough to do, without a pet as well!”. Then one day, Bella came home from school very excited. “My friend Izzy has got a  hamster,” she told the rest of the family over tea. “She's asked me to go round and play tomorrow so I can meet her. I wish I could have a hamster!”"
+    "desc": ""
+  },
+  {
+    "id": 7, 
+    "image": "p8", 
+    "title": "Nell's Book", 
+    "content": "Nell was sitting in the library with her friends. It was lunchtime. Nell was reading. She was always reading! She had found a book about cats and was happy. But she was the only one with a book. Her friends had gadgets in their hands. Sunita had a phone; Saffron had a tablet. ‘Why don’t you look at books?’ she said. ‘We are in a library!’"
+    "desc": ""
+  },
+  {
+    "id": 8, 
+    "image": "p9", 
+    "title": "Milly and the rainbow", 
+    "content": "Milly sat under the apple tree and watched the rain clouds sweep over the hills. What a wet day! She ate an apple and waited for the rain to stop. Soon it did. The sky turned blue again, and the Sun shone, warm and golden. Then she saw the rainbow. It began as an explosion of light, high in the clouds. The sky filled with dazzling colours: blue, orange, green and purple."
+    "desc": ""
+  },
+  {
+    "id": 9, 
+    "image": "p10", 
+    "title": "Little mosters", 
+    "content": "Once upon a time in England there was a scarecrow. He stood in a field and looked like a man. But he wasn’t a real man. The scarecrow was made of straw. The scarecrow’s head was an old football. His face was painted on: two eyes, a nose and a smiling mouth. He didn’t have hair, but he did have a hat. It was brown and made of felt. A farmer used to wear it, long ago."
+    "desc": ""
+  },
+  {
+    "id": 10, 
+    "image": "p11", 
+    "title": "Joe goes fishing", 
+    "content": "Joe sat on his bed and looked at his birthday presents. They were great! Smart new trainers from his mum. A fishing rod from his dad. And best of all, his grandpa had given him a watch. A proper, grown-up watch with a black leather strap and a silver face. ‘You’re a young man now,’ his grandpa said, as Joe opened the box. ‘Twelve years old. Happy birthday!’"
+    "desc": ""
+  },
+  {
+    "id": 11, 
+    "image": "p12", 
+    "title": "Football match", 
+    "content: "Joe loved football. He played it with his friends at school, in the park with his dad on weekends, and sometimes he even played it with his little sister, Bella, in their back garden. She usually missed the ball when she tried to kick it. But it was better than nothing."
+    "desc": ""
+  },
+  {
+    "id": 12, 
+    "image": "p13", 
+    "title": "Exam Time", 
+    "content": "It was exam time at Joe's school. Every day, their teacher gave them loads of homework and told them they should be working hard so as to do well in their tests. Joe didn't take any notice. He reckoned he would rather be playing football."
+    "desc": ""
+  },
+  {
+    "id": 13, 
+    "image": "p14", 
+    "title": "Car Journey", 
+    "content": "“Are we nearly there yet?” asked Bella, banging her feet against the back of Mum's seat. Joe, who was sitting next to her, groaned. “That's the tenth time she's asked that. And there's still miles to go.”"
+    "desc": ""
+  },
+  {
+    "id": 14, 
+    "image": "p15", 
+    "title": "Camping", 
+    "content": "The Hobson family were going camping. It was Bella's first camping trip, and though she was excited, she was nervous too. “What if the tent falls over and squashes us?” she asked Joe. “It too light to squash us,” said Joe."
+    "desc": ""
+  },
+  {
+    "id": 15, 
+    "image": "p16", 
+    "title": "Best job in the world", 
+    "content": "‘But what is it?’ said Elli. ‘What does it do?’ She put the headset on again. ‘I can’t see anything.’ ‘I haven’t turned it on yet!’ laughed her father. ‘Wait!’ Elli’s father was an inventor. He worked for a big company and was always making new gadgets. Sometimes he brought them home so Elli could try them."
+    "desc": ""
+  },
+  {
+    "id": 16, 
+    "image": "p17", 
+    "title": "Back to school", 
+    "content": "The summer was over and it was time to go back to school. “There's so much to organise,” groaned Mum. “I can't believe the holidays are over!” “I don't know why you're complaining,” said Joe, who was ten. “You don't even go to school!”"
+    "desc": ""
+  },
+  {
+    "id": 17, 
+    "image": "p18", 
+    "title": "Abdu & traffic jam", 
+    "content": "‘Oh no... Look at this! It’s going to take forever to get home now!’ Abdu’s mum pressed the brakes on the car. It slowed down till it was hardly moving. Then it came to a stop, at the very end of the traffic jam. ‘I hate this motorway,’ she said."
+    "desc": ""
+  },
+}
